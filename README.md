@@ -4,7 +4,7 @@
 
 ### 👋 안녕하세요, bluem3648입니다
 
-게임과 웹 서비스를 만들고 있습니다.
+게임을 만들고 있습니다.
 
 </div>
 
@@ -17,10 +17,6 @@
 **Game**
 
 <img src="https://skillicons.dev/icons?i=unity,cs,cpp" alt="Unity, C#, C++" />
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
 
 **Etc**
 
